@@ -1,1 +1,2 @@
 This is Basic index file to understand DAX   
+This Day 2 progress
